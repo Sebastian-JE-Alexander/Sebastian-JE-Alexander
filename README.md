@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sebastian-JE-Alexander
+- 👋 Hi, I’m Sebastian Alexander
 - 👀 I’m interested in building and problem solving be it through programming or real world solutions through engineering, with a focus on electrical and electronic engineering.
-- 🌱 I’m currently learning JavaScript and python
+- 🌱 I’m currently learning C and Verilog
 - 📫 How to reach me: Through my twitter @Seb_Alex_ or through my email sebastianal0112@gmail.com
 
 <!---
