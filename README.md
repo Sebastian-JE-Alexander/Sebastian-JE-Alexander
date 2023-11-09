@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Alexander
 - 👀 I’m interested in building and problem solving be it through programming or real world solutions through engineering, with a focus on electrical and electronic engineering.
-- 🌱 I’m currently learning C, Verilog whilst at university along with self-studying Unity and Python
+- 🌱 I’m currently learning C, Verilog, RISC-V/MIPS architecture whilst at university along with self-studying Python.
 - 📫 How to reach me: Through my twitter @Seb_Alex_ or through my email sebastianal0112@gmail.com
 
 <!---
