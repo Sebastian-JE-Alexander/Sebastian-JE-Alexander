@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sebastian Alexander
-- I'm a recent graduate of Glasgow Caledonian University where I got my Masters of Engineering in Electrical and Electronic Engineering. I've worked on projects using Verilog, Python, C++/C and even LaTEX to write a Masters thesis with my team. 
+- I'm a recent graduate of Glasgow Caledonian University where I got my Masters of Engineering in Electrical and Electronic Engineering.I'm currently working as a Design Engineer for Granroth which is a South African Automation engineering company.
+- I've worked on projects using Verilog, Python, C++/C and even LaTEX to write a Masters thesis with my team. 
 - 📫 How to reach me: Through my email sebastianal0112@gmail.com or via my linkedin www.linkedin.com/in/sebastian-alexander-38402b305
 
 <!---
